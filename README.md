@@ -36,9 +36,9 @@
   <a href = "mailto:ramonlimaemeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramon-meira-69a9b7b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
- 
 </div>
+ 
+  ![Snake animation](https://github.com/ramonmeira/ramonmeira/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 Here are some ideas to get you started:
