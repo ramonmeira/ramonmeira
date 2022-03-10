@@ -68,7 +68,7 @@
   </a>
  
 </div>
-
+ 
 ![Snake animation](https://github.com/ramonmeira/ramonmeira/blob/output/github-contribution-grid-snake.svg)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ramonmeira)](https://github.com/ryo-ma/github-profile-trophy) -->
